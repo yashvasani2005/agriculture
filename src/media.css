@@ -1,0 +1,670 @@
+@media (min-width:0px) and (max-width: 400px) {
+    .des .logo img {
+        height: 7vw!important;
+        width: 7vw!important;
+        /* margin-left: -27vw!important; */
+        position: absolute!important;
+        left: 35vw!important;
+
+    }
+
+    .des {
+
+        height: 5vw!important;
+    }
+
+    .des .rightnav .btn {
+
+        width: 7vw!important;
+        height: 3vw!important;
+        padding: 0.5vw 0.5vw!important;
+        font-size: 1.5vw!important;
+        border-radius: 1.6vw!important;
+
+    }
+
+
+
+
+    .navbar {
+        height: 4vh!important;
+        width: 100vw!important;
+
+
+    }
+
+    .navbar .navlist li {
+
+        padding: 0.7vw 0vw 0vw 2.5vw!important;
+
+
+
+    }
+
+    .navbar .navlist li a {
+
+        font-size: 2.5vw!important;
+    }
+
+
+
+    .des .logo img {
+        height: 5vw!important;
+        width: 5vw!important;
+    }
+
+    .main .container .box {
+
+        height: 130px!important;
+        width: 250px!important;
+        margin: 2vw!important;
+
+
+
+    }
+
+    .box .top img {
+        height: 15vw!important;
+        width: 15vw!important;
+        margin: 1vw!important;
+
+
+
+    }
+
+    .box .bottom h1 {
+        margin: 0.5vw!important;
+        font-size: 2.5vw!important;
+    }
+
+    .box .bottom p {
+
+
+        font-size: 2.5vw !important;
+        margin-top: 2.5vw!important;
+        width: 40vw!important;
+
+
+    }
+
+    .dropdown-menu {
+
+
+        top: 10vw!important;
+    }
+
+    /*     seed */
+
+    .product-card {
+        width: 150px!important;
+        margin: 25px auto!important;
+
+    }
+
+
+    .product-tumb {
+
+        height: 120px!important;
+
+
+    }
+
+    .product-tumb img {
+        height: 100%!important;
+        object-fit: cover!important;
+
+
+    }
+
+    .product-details {
+        padding: 10px!important;
+    }
+
+    .product-catagory {
+
+        font-size: 9px!important;
+        margin-bottom: 7px!important;
+    }
+
+    .product-details h4 a {
+
+        font-size: 14px!important;
+        margin-bottom: 15px!important;
+    }
+
+
+    .product-details p {
+        font-size: 12px!important;
+        margin-bottom: 2px!important;
+
+    }
+
+
+
+    .product-bottom-details div {
+        float: left!important;
+        width: 50%!important;
+    }
+
+    .product-price {
+        font-size: 14px!important;
+
+    }
+
+    .product-price small {
+        font-size: 80%!important;
+        margin-right: 6px!important;
+    }
+
+
+
+    .product-links a {
+
+        margin-left: 5px!important;
+        font-size: 17px!important;
+    }
+
+
+
+    .allbox {
+        width: 100%!important;
+        margin: 0!important;
+        padding: 0!important;
+    }
+
+    .istyle {
+        width: 150px!important;
+        height: 150px!important;
+    }
+
+    .product-bottom-details {
+
+        padding-top: 7px!important;
+
+
+    }
+
+    .product-bottom-details button {
+        height: 25px!important;
+        width: 80px!important;
+        margin: 1px!important;
+        font-size: 12px!important;
+
+        margin-right: 4px!important;
+        border-radius: 5px!important;
+
+
+
+    }
+
+    .product-bottom-details button:hover {
+
+        font-size: 10px!important;
+        font-weight: 400!important;
+
+
+    }
+
+    .product-bottom-details img {
+
+        height: 25px!important;
+        width: 25px!important;
+
+
+
+    }
+
+    /*   tools na head na button */
+
+    div .head-btn {
+        height: 3vw!important;
+        width: 9vw!important;
+        margin: 1vw!important;
+        font-size: 1.4vw!important;
+        font-weight: 500!important;
+        border-radius: .9vw!important;
+        border: .1vw solid gray!important;
+
+   
+
+    }
+    .heading{
+        font-size: 3vw!important;
+        
+      }
+
+          table {
+     
+            font-size: 1.8vw!important;
+            border:0.1vw solid #000000!important;
+          
+            height:150vw!important;
+            width: 75vw!important;
+      
+      
+      
+        }
+      
+        /* table.inner {
+            border: 100vw
+        } */
+      
+        input[type=text],
+        input[type=email],
+        input[type=number] {
+            width: 50% !important;
+            padding: .5vw 1vw!important;
+            margin: 1vw 0!important;
+            box-sizing: border-box!important;
+            font-size: 1vw!important;
+        }
+      
+        input[type=submit],
+        input[type=reset] {
+            width: 15%!important;
+            padding: .5vw 1vw!important;
+            margin: 1vw 0!important;
+            box-sizing: border-box!important;
+            font-size: 1.2vw!important;
+        }
+        input[type=radio]
+        {
+              width:5%!important;
+        
+              margin: 2vw 0!important;
+              box-sizing: border-box!important;
+               height: 2vw!important;
+               width: 6vw!important;
+          }
+        .address{
+          font-size: 1.3vw!important;
+        }
+      
+        .dob{
+          /* padding: 0.5vw!important; */
+          height: 3vw!important;
+          width: 10vw!important;
+          font-size: 1.5vw!important;
+          margin-bottom: 2vw!important;
+        }
+
+
+}
+
+
+
+@media (min-width:401px) and (max-width: 768px) {
+    .navbar {
+        height: 4vh!important;
+        width: 100vw!important;
+
+    }
+
+
+    .des .logo img {
+        height: 5vw!important;
+        width: 5vw!important;
+    }
+
+
+
+    .navbar .navlist li a {
+
+        padding: 0.7vw 0vw 0vw 2.5vw!important;
+        font-size: 2.5vw!important;
+
+
+    }
+
+    .main .container .box {
+
+        height: 200px!important;
+        width: 200px!important;
+        margin: 4vw 1vw!important;
+
+
+
+    }
+
+    .box .top img {
+        height: 14vw!important;
+        width: 14vw!important;
+        margin: 1vw!important;
+
+
+
+    }
+
+    .box .bottom h1 {
+        margin: 0.5vw!important;
+        font-size: 3.5vw!important;
+    }
+
+    .box .bottom p {
+
+
+        font-size: 2.5vw!important;
+
+
+    }
+
+
+    /*- seed   */
+
+    .product-card {
+        width: 150px!important;
+        margin: 25px auto!important;
+
+    }
+
+
+    .product-tumb {
+
+        height: 120px!important;
+
+
+    }
+
+    .product-tumb img {
+        height: 100%!important;
+        object-fit: cover!important;
+
+
+    }
+
+    .product-details {
+        padding: 10px!important;
+    }
+
+    .product-catagory {
+
+        font-size: 9px!important;
+        margin-bottom: 7px!important;
+    }
+
+    .product-details h4 a {
+
+        font-size: 14px!important;
+        margin-bottom: 15px!important;
+    }
+
+
+    .product-details p {
+        font-size: 12px!important;
+        margin-bottom: 2px!important;
+
+    }
+
+
+
+    .product-bottom-details div {
+        float: left!important;
+        width: 50%!important;
+    }
+
+    .product-price {
+        font-size: 14px!important;
+
+    }
+
+    .product-price small {
+        font-size: 80%!important;
+        margin-right: 6px!important;
+    }
+
+
+
+    .product-links a {
+
+        margin-left: 5px!important;
+        font-size: 17px!important;
+    }
+
+
+
+    .allbox {
+        width: 100%!important;
+        margin: 0!important;
+        padding: 0!important;
+    }
+
+    .istyle {
+        width: 150px!important;
+        height: 150px!important;
+    }
+
+    .product-bottom-details {
+
+        padding-top: 7px!important;
+
+
+    }
+
+    .product-bottom-details button {
+        height: 25px!important;
+        width: 80px!important;
+        margin: 1px!important;
+        font-size: 12px!important;
+
+        margin-right: 4px!important;
+        border-radius: 5px!important;
+
+
+
+    }
+
+    .product-bottom-details button:hover {
+
+        font-size: 10px!important;
+        font-weight: 400!important;
+
+
+    }
+
+    .product-bottom-details img {
+
+        height: 25px!important;
+        width: 25px!important;
+
+
+
+    }
+  /*   tools na head na button */
+
+  div .head-btn {
+    height: 3vw!important;
+    width: 9vw!important;
+    margin: 1vw!important;
+    font-size: 1.6vw!important;
+    font-weight: 500!important;
+    border-radius: .9vw!important;
+    border: .1vw solid gray!important;
+
+
+
+}
+
+
+
+
+
+}
+
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    .navbar {
+        height: 5vw!important;
+        width: 100vw!important;
+
+    }
+
+
+    .des .logo img {
+        height: 4vw!important;
+        width: 4vw!important;
+    }
+
+
+
+    .navbar .navlist li a {
+
+        padding: 0.7vw 0vw 0vw 2.5vw!important;
+        font-size: 2.5vw!important;
+
+
+    }
+
+    .main .container .box {
+
+        height: 400px!important;
+        width: 400px!important;
+        margin: 2vw 1vw!important;
+
+
+
+    }
+
+    .box .top img {
+        height: 14vw!important;
+        width: 14vw!important;
+        margin: 1vw!important;
+
+
+
+    }
+
+    .box .bottom h1 {
+        margin: 0.5vw!important;
+        font-size: 3vw!important;
+    }
+
+    .box .bottom p {
+
+
+        font-size: 2.3vw!important;
+        margin-top: 3vw!important;
+
+
+    }
+
+    /*   seed */
+    .product-card {
+        width: 200px!important;
+        margin: 25px auto!important;
+
+    }
+
+
+    .product-tumb {
+
+        height: 150px!important;
+
+
+    }
+
+    .product-tumb img {
+        height: 100%!important;
+        object-fit: cover!important;
+
+
+    }
+
+    .product-details {
+        padding: 10px!important;
+    }
+
+    .product-catagory {
+
+        font-size: 10px!important;
+        margin-bottom: 7px!important;
+    }
+
+    .product-details h4 a {
+
+        font-size: 16px!important;
+        margin-bottom: 15px!important;
+    }
+
+
+    .product-details p {
+        font-size: 13px!important;
+        margin-bottom: 2px!important;
+
+    }
+
+
+
+    .product-bottom-details div {
+        float: left!important;
+        width: 50%!important;
+    }
+
+    .product-price {
+        font-size: 14px!important;
+
+    }
+
+    .product-price small {
+        font-size: 80%!important;
+        margin-right: 6px!important;
+    }
+
+
+
+    .product-links a {
+
+        margin-left: 5px!important;
+        font-size: 17px!important;
+    }
+
+
+
+    .allbox {
+        width: 100%!important;
+        margin: 0!important;
+        padding: 0!important;
+    }
+
+    .istyle {
+        width: 150px!important;
+        height: 150px!important;
+    }
+
+    .product-bottom-details {
+
+        padding-top: 7px!important;
+
+
+    }
+
+    .product-bottom-details button {
+        height: 25px!important;
+        width: 80px!important;
+        margin: 1px!important;
+        font-size: 14px!important;
+
+        margin-right: 4px!important;
+        border-radius: 5px!important;
+
+
+
+    }
+
+    .product-bottom-details button:hover {
+
+        font-size: 11px!important;
+        font-weight: 400!important;
+
+
+    }
+
+    .product-bottom-details img {
+
+        height: 25px!important;
+        width: 25px!important;
+
+
+
+    }
+
+}

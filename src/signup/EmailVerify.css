@@ -1,0 +1,79 @@
+.vrifyEmailContainer_22 {
+    width: 100%;
+    height: calc(100vh - 8vh);
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.verifyEmailformCenter_22 {
+    height: 50%;
+    width: 30%;
+    border: 1px solid #dedede;
+    border-radius: 30px;
+    padding: 20px;
+}
+.paraAtVerify_22{
+    padding: 0 25px;
+    font-weight: 300;
+
+}
+
+.verifyEmailformCenter_22>h1 {
+    text-align: center;
+}
+
+.verifyEmailForm_22 {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}
+
+.inputAtOTP_22 {
+    background-color: #eaeaea;
+    border: 1px solid #c9c9c9;
+    border-radius: 5px;
+    padding: 5px !important;
+    width: 48px !important;
+    aspect-ratio: 1/1 !important;
+}
+
+.lastSectionAtVerify_22 {
+    width: 100%;
+    padding: 0 35px;
+    margin-bottom: 30px;
+
+}
+
+.VerifyOtpSubmitBtn_22 {
+    border: 1px solid rgb(255, 255, 255);
+    padding: 5px 17px;
+    border-radius: 5px;
+    width: 100%;
+    background-color: #7522e6;
+    color: white;
+    padding: 5px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.verifyEmailLastLink_22 {
+    width: 100%;
+    display: flex;
+    font-size: small;
+    justify-content: space-between;
+}
+
+.verifyEmailLastLink_22>button {
+    font-size: small;
+    cursor: pointer;
+}
+
+.verifyEmailLastLinkStyle_22 {
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,135 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+
+:root {
+  --primary-clr: #7522e6;
+  --bg-clr: #f2f4f5;
+  --white-bg: #fff;
+  --dark-text-clr: #363b46;
+  --light-text-clr: #fff;
+  --hover-clr: #f1e8fd;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+
+.signupContainer_22 {
+ width: 100%;
+ height: calc(100vh - 9vh);
+ padding: 15px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.formCenter_22{
+  height: 90%;
+  width: 30%;
+  border: 1px solid #dedede;
+  border-radius: 30px;
+  padding: 20px;
+}
+
+.formBtnContainer_22{
+  width: fit-content;
+  height: fit-content;
+  display: flex;
+  gap: 10px;
+  padding: 5px;
+  margin-top: 45px;
+  margin-bottom: -30px;
+  background-color: #eaeaea;
+  border: 1px solid #c9c9c9;
+  border-radius: 40px;
+  cursor: pointer;
+}
+
+.formBtnContainer_22 button{
+  padding: 5px 17px;
+  border-radius: 35px;
+  color: black;
+  cursor: pointer;
+}
+
+.formBtnContainerActiveBtn_22{
+  background-color: rgb(35, 35, 35);
+  color: white !important;
+  
+}
+
+.personlDetailContainer_22{
+  display: flex;
+  width: 100%;
+  gap: 10%;
+}
+
+.personlDetailContainer_22 > .inputFieldAtSignup_22 > input{
+  width: 100%;
+}
+
+.inputFieldAtSignup_22 input{
+  width: 82%;
+  background-color: #eaeaea;
+  border: 1px solid #c9c9c9;
+  border-radius: 5px;
+  padding: 5px;
+}
+.inputFieldAtSignup_22 p{
+  font-size: small;
+}
+.inputFieldAtSignup_22{
+  margin-bottom: 20px;
+}
+
+input:focus{
+  outline: 1px solid gray;
+}
+
+.form_22{
+  height: 90%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+}
+
+.lastSectionOfForm_22{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+
+.lastSectionOfForm_22 > p{
+  font-size: smaller;
+}
+
+.lastSectionOfForm_22 > button{
+  border: 1px solid rgb(255, 255, 255);
+  padding: 5px 17px;
+  border-radius: 5px;
+  width: 80%;
+  background-color: #009808;
+  color: white;
+  padding: 5px;
+  cursor: pointer;
+}
+
+@media (max-width:760px) {
+  .personlDetailContainer_22{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+  }
+  .formCenter_22{
+    width: 95%;
+  }
+  
+}
